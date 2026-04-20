@@ -1,0 +1,6 @@
+site_name: Luque la Androide
+
+nav:
+  - Inicio: index.md
+  - Origen: origen.md
+  - Habilidades: habilidades.md
